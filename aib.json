@@ -61,7 +61,7 @@
                         "identity":{
 				"type": "UserAssigned",
 				"userAssignedIdentities": {
-					"<imgBuilderId>": {}
+					"/subscriptions/b03245be-fce6-4df9-a451-1d0846fae324/resourceGroups/RG_AzureImageBuilder813/providers/Microsoft.Compute/galleries/azureimagebuilder813": {}
 				}
 			},
 			"dependsOn": [
